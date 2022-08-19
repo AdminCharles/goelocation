@@ -1,2 +1,2 @@
-# goelocation
-This is the project made in java, first part of a geolocation app for doctors and patients 
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
